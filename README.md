@@ -1,5 +1,5 @@
 # android-geofencing
-Android Geofencing Example. 
+Android geofencing example. 
 
 ## Information
 Based on 
